@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VRCattleSaveXml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<disable />
+	<transparent />
+	<isMale>true</isMale>
+	<bodyStates>
+		<boolean>false</boolean>
+		<boolean>false</boolean>
+		<boolean>false</boolean>
+		<boolean>false</boolean>
+		<boolean>true</boolean>
+		<boolean>false</boolean>
+		<boolean>false</boolean>
+		<boolean>false</boolean>
+		<boolean>false</boolean>
+		<boolean>false</boolean>
+		<boolean>false</boolean>
+		<boolean>false</boolean>
+		<boolean>true</boolean>
+	</bodyStates>
+	<cameraRot>
+		<x>0</x>
+		<y>0.0979354754</y>
+		<z>0</z>
+		<w>-0.995192766</w>
+		<eulerAngles>
+			<x>0</x>
+			<y>348.7594</y>
+			<z>0</z>
+		</eulerAngles>
+	</cameraRot>
+	<cameraPos>
+		<x>0.9570932</x>
+		<y>0.233747467</y>
+		<z>-2.63213062</z>
+	</cameraPos>
+</VRCattleSaveXml>

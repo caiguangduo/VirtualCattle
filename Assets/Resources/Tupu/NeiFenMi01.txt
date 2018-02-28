@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VRCattleSaveXml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<disable>
+		<string>NeiFenMiXiTong\NeiFenMiXiTong_02</string>
+	</disable>
+	<transparent />
+	<isMale>true</isMale>
+	<bodyStates>
+		<boolean>false</boolean>
+		<boolean>false</boolean>
+		<boolean>false</boolean>
+		<boolean>false</boolean>
+		<boolean>false</boolean>
+		<boolean>false</boolean>
+		<boolean>false</boolean>
+		<boolean>false</boolean>
+		<boolean>false</boolean>
+		<boolean>false</boolean>
+		<boolean>false</boolean>
+		<boolean>true</boolean>
+		<boolean>true</boolean>
+	</bodyStates>
+	<cameraRot>
+		<x>0</x>
+		<y>0.295520753</y>
+		<z>0</z>
+		<w>-0.955336332</w>
+		<eulerAngles>
+			<x>0</x>
+			<y>325.622467</y>
+			<z>0</z>
+		</eulerAngles>
+	</cameraRot>
+	<cameraPos>
+		<x>-1.43256307</x>
+		<y>0.4768149</y>
+		<z>-0.0599808</z>
+	</cameraPos>
+</VRCattleSaveXml>

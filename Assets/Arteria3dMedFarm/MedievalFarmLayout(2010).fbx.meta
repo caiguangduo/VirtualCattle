@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: 033d193e73b0dfd4ea41b1e92bda1719
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    4300000: Group9_Building1_Form2
+    4300002: Group9_Building1_Form4
+    4300004: Group9_Building1_Form6
+    4300006: Group9_Building1_beam
+    4300008: Group9_Building2_Form11
+    4300010: Group9_Building2_Form4
+    4300012: Group9_Wheels
+    4300014: shutterInn
+    4300016: delete
+    4300018: Group9_Building3_Form52
+    4300020: Group9_Building3_Form57
+    4300022: Group9_Building3_Form58
+    4300024: Group9_Building3_Form59
+    4300026: BarnA
+    4300028: Group9_Group8_Form65
+    4300030: trnp
+    4300032: Form96
+    4300034: Group2_Group9_Group8_Form65
+    4300036: Group3_Group9_Group8_Form65
+    4300038: Group3_Group2_Group9_Group8_Form65
+    4300040: Group4_Group9_Group8_Form65
+    4300042: Form159
+    4300044: Form160
+    4300046: Form161
+    4300048: Form163
+    4300050: Form164
+    4300052: Form165
+    4300054: Form166
+    4300056: Form60
+    4300058: Group2_Group9_Building3_Form58
+    4300060: Group2_Group9_Building3_Form59
+    4300062: Group9_Building3_Form55
+    4300064: Form62
+    4300066: Form63
+    4300068: InnTrestleTable
+    4300070: _dd
+    4300072: Group9_Form36
+    4300074: Inn_Door
+    4300076: Group3__dd
+    4300078: Form143
+    4300080: Form141
+    4300082: Form145
+    4300084: Form147
+    4300086: Form148
+    4300088: Form149
+    4300090: Form150
+    4300092: Group9_Well_Shape1
+    4300094: Group9_Well_Form39
+    4300096: Group9_Well_Shape2
+    4300098: Group9_Well_Form41
+    4300100: Group9_Well_Bucket#_Shape2
+    4300102: Group9_Well_Bucket#_Form46
+    4300104: Group9_Well_Shape3
+    4300106: InnSign
+    4300108: Group4_Group9_Well_Shape3
+    4300110: Group4_InnSign
+    4300112: Form154
+    4300114: Form156
+    4300116: Group5_Form156
+    4300118: Form157
+    4300120: Shape0
+    4300122: Group9_Fence_Form34
+    4300124: Form90
+    4300126: BeeHive
+    4300128: Blacksmith_Blacksmith
+    4300130: Blacksmith_Group7_Group9_MVFBuildingD
+    4300132: Blacksmith_Group7_Group9_Form65
+    4300134: Blacksmith_Group7_Group9_Group8_Form65
+    4300136: Blacksmith_Group7_Form108
+    4300138: Blacksmith_Group9_MVFBuildingD
+    4300140: Blacksmith_Form98
+    4300142: Blacksmith_Anvil
+    4300144: Blacksmith_Form104
+    4300146: carpFence
+    4300148: Carpenters
+    4300150: VillageHouseA
+    4300152: VillageHouseATranspRoof
+    4300154: VillageHouseAWindowFrame
+    4300156: Form106
+    4300158: LogStand
+    4300160: VillageHouseARoomDivide
+    4300162: InnChimney
+    4300164: Form332
+    4300166: LargeHouse
+    4300168: BarnSteps
+    4300170: Form333
+    4300172: Stairway
+    4300174: Form88
+    4300176: Group2_Form91
+    4300178: Group2_Form93
+    4300180: BarnADoor
+    4300182: Form93
+    4300184: OldStump
+    4300186: TreeLogC
+    4300188: LogCart
+    4300190: Form95
+    4300192: TwoSided
+    4300194: FarmBuildingA
+    4300196: FarmBuildingB
+    4300198: FarmBuildingC
+    4300200: FarmBuildingD
+    4300202: FarmBuildingE
+    4300204: FarmBuildingF
+    4300206: FarmBuildingG
+    4300208: FenceSectionA
+    4300210: FenceSectionB
+    4300212: FenceSectionC
+    4300214: FenceSectionD
+    4300216: LooseLogs
+    4300218: LogsStack
+    4300220: Well
+    4300222: BlackSmithRoofs
+    4300224: Form22
+    4300226: BeeHiveB
+    4300228: FarmBuildingH
+    4300230: FarmBuildingI
+    4300232: FarmBuildingJ
+    4300234: FenceSectionG
+    4300236: FenceSectionH
+    4300238: FenceSectionI
+    4300240: FenceSectionJ
+    4300242: FenceSectionL
+    4300244: Form94
+    4300246: Form98
+    4300248: Form99
+    4300250: GateB
+    4300252: TERRAIN
+    4300254: TerrainWall
+    4300256: ThatchedTrim
+    4300258: WellB
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.02
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 6
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 69
+    normalImportMode: 1
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

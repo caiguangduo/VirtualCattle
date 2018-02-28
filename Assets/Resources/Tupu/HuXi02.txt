@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VRCattleSaveXml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<disable>
+		<string>HuXiXiTong\HuXiXiTong_04</string>
+		<string>HuXiXiTong\HuXiXiTong_05</string>
+		<string>HuXiXiTong\HuXiXiTong_07</string>
+	</disable>
+	<transparent />
+	<isMale>true</isMale>
+	<bodyStates>
+		<boolean>false</boolean>
+		<boolean>false</boolean>
+		<boolean>false</boolean>
+		<boolean>false</boolean>
+		<boolean>true</boolean>
+		<boolean>false</boolean>
+		<boolean>false</boolean>
+		<boolean>false</boolean>
+		<boolean>false</boolean>
+		<boolean>false</boolean>
+		<boolean>false</boolean>
+		<boolean>false</boolean>
+		<boolean>true</boolean>
+	</bodyStates>
+	<cameraRot>
+		<x>0</x>
+		<y>0.0979354754</y>
+		<z>0</z>
+		<w>-0.995192766</w>
+		<eulerAngles>
+			<x>0</x>
+			<y>348.7594</y>
+			<z>0</z>
+		</eulerAngles>
+	</cameraRot>
+	<cameraPos>
+		<x>1.06640077</x>
+		<y>0.227966651</y>
+		<z>-2.1218853</z>
+	</cameraPos>
+</VRCattleSaveXml>

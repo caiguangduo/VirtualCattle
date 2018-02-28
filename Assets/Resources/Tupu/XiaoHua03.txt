@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VRCattleSaveXml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<disable>
+		<string>XiaoHuaXiTong\XiaoHuaXiTong_02</string>
+		<string>XiaoHuaXiTong\XiaoHuaXiTong_03</string>
+		<string>XiaoHuaXiTong\XiaoHuaXiTong_04</string>
+		<string>XiaoHuaXiTong\XiaoHuaXiTong_05</string>
+		<string>XiaoHuaXiTong\XiaoHuaXiTong_06</string>
+		<string>XiaoHuaXiTong\XiaoHuaXiTong_07</string>
+		<string>XiaoHuaXiTong\XiaoHuaXiTong_08</string>
+		<string>XiaoHuaXiTong\XiaoHuaXiTong_09</string>
+		<string>XiaoHuaXiTong\XiaoHuaXiTong_010</string>
+		<string>XiaoHuaXiTong\XiaoHuaXiTong_011</string>
+		<string>XiaoHuaXiTong\XiaoHuaXiTong_012</string>
+		<string>XiaoHuaXiTong\XiaoHuaXiTong_013</string>
+		<string>XiaoHuaXiTong\XiaoHuaXiTong_014</string>
+		<string>XiaoHuaXiTong\XiaoHuaXiTong_015</string>
+		<string>XiaoHuaXiTong\XiaoHuaXiTong_016</string>
+	</disable>
+	<transparent />
+	<isMale>true</isMale>
+	<bodyStates>
+		<boolean>false</boolean>
+		<boolean>false</boolean>
+		<boolean>false</boolean>
+		<boolean>true</boolean>
+		<boolean>false</boolean>
+		<boolean>false</boolean>
+		<boolean>false</boolean>
+		<boolean>false</boolean>
+		<boolean>false</boolean>
+		<boolean>false</boolean>
+		<boolean>false</boolean>
+		<boolean>false</boolean>
+		<boolean>true</boolean>
+	</bodyStates>
+	<cameraRot>
+		<x>0</x>
+		<y>0.1390478</y>
+		<z>0</z>
+		<w>-0.9902857</w>
+		<eulerAngles>
+			<x>0</x>
+			<y>344.0145</y>
+			<z>0</z>
+		</eulerAngles>
+	</cameraRot>
+	<cameraPos>
+		<x>0.06514025</x>
+		<y>0.0495334268</y>
+		<z>-2.97489071</z>
+	</cameraPos>
+</VRCattleSaveXml>
